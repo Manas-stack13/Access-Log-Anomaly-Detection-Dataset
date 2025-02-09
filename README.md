@@ -1,8 +1,6 @@
 # Access-Log-Anomaly-Detection-Dataset
 A novel dataset for access log anomaly detection, combining real enterprise access logs with synthetic augmentation
 
-# Access Log Anomaly Detection Dataset
-
 ## Overview
 This dataset is designed for **anomaly detection in access logs**, particularly focusing on identity-based threats such as **unauthorized access, privilege escalation, and session anomalies**. It is built using a **hybrid approach**, combining **real enterprise access logs** with **synthetic anomalies** to ensure a well-balanced representation of both benign and malicious events.
 
